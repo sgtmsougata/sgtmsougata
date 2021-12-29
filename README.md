@@ -5,6 +5,7 @@
 ### Statistician | Data Analyst | Data Scientist
 
 #### I am a organize, passionate, dedicated person, like to team work and develop new things which will benefits our society.
+https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 
 
 - 🔭 I’m currently working on Python  
