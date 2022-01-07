@@ -35,7 +35,8 @@
 
 ## Project
 
-### ANALYZING PERFORMANCE OF VARIOUS MACHINE LEARNING ALGORITHMS ON RELIANCE STOCK DATA     [![Mail Badge](https://img.shields.io/badge/-View-0e76a8?style=flat&labelColor=0e76a8&logo=click&logoColor=white)](https://drive.google.com/drive/folders/1SGJ4ZMXHYy0Th8s4qufsV7IA8nm5Pvtd?usp=sharing)
+### ANALYZING PERFORMANCE OF VARIOUS MACHINE LEARNING ALGORITHMS ON RELIANCE STOCK DATA     
+[![Mail Badge](https://img.shields.io/badge/-View-0e76a8?style=flat&labelColor=0e76a8&logo=click&logoColor=white)](https://drive.google.com/file/d/1QRDv_ejULQTghvQtDb9-YekW4_uH4bS7/view?usp=sharing)
 
 descriptionReliance Industries Limited is an Indian multinational conglomerate company and it provide energy, textiles, petrochemicals, natural resources, telecommunications and retail. It one of the largest publicly traded company in India by market capitalization, first exceed $100 billion market capitalization in India.
 
