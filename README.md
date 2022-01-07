@@ -36,11 +36,14 @@
 ## Project
 
 ### ANALYZING PERFORMANCE OF VARIOUS MACHINE LEARNING ALGORITHMS ON RELIANCE STOCK DATA     
-[![Mail Badge](https://img.shields.io/badge/-View-0e76a8?style=flat&labelColor=0e76a8&logo=click&logoColor=white)](https://drive.google.com/file/d/1QRDv_ejULQTghvQtDb9-YekW4_uH4bS7/view?usp=sharing)
+[![click Badge](https://img.shields.io/badge/-_View_-0e76a8?style=flat&labelColor=orange&logo=click&logoColor=white)](https://drive.google.com/file/d/1QRDv_ejULQTghvQtDb9-YekW4_uH4bS7/view?usp=sharing)
 
-descriptionReliance Industries Limited is an Indian multinational conglomerate company and it provide energy, textiles, petrochemicals, natural resources, telecommunications and retail. It one of the largest publicly traded company in India by market capitalization, first exceed $100 billion market capitalization in India.
+Reliance Industries Limited is an Indian multinational conglomerate company and it provide energy, textiles, petrochemicals, natural resources, telecommunications and retail. It one of the largest publicly traded company in India by market capitalization, first exceed $100 billion market capitalization in India.
 
+## Publication
+The Word Cloud Analysis to Evaluate the Impact of COVID-19 on Environmental Professionals and Environmental Degree Holders: A PAN India Survey
 
+[![click Badge](https://img.shields.io/badge/-_View_-0e76a8?style=flat&labelColor=orange&logo=click&logoColor=white)](https://www.banglajol.info/index.php/BJMS/article/view/51558)
 
 
 ![](https://t3.ftcdn.net/jpg/02/52/60/22/240_F_252602283_dHNFUj520h1E8CwHyBORuUyu5hcJb2I4.jpg)
