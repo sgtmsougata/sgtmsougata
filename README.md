@@ -19,6 +19,8 @@
 ![Rcode](https://img.shields.io/badge/code-R-blue?logo=R&logoColor=white)
 ![Pythoncode](https://img.shields.io/badge/code-python-orange?logo=Python&logoColor=white)
 
+![](https://t4.ftcdn.net/jpg/02/18/19/45/240_F_218194503_wSvcCgloyddB8rJmzoWdOPlwiAnMei2Q.jpg)
+
 ## Tools
 ![Rcode](https://img.shields.io/badge/.-RStudio-blue?logo=RStudio&logoColor=white)
 ![Pythoncode](https://img.shields.io/badge/.-Anaconda-success?logo=Anaconda&logoColor=white)
@@ -31,6 +33,13 @@
 ![Pythoncode](https://img.shields.io/badge/.-Powerpoint-red?logo=MicrosoftPowerpoint&logoColor=white)
 
 
+## Project
 
-![end pic](https://scontent.fccu2-1.fna.fbcdn.net/v/t39.30808-6/270125844_3127154310900955_3600546872770347180_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=CInnkwDr5_kAX9hf3x1&tn=WutvZRzvwZ5UucUK&_nc_ht=scontent.fccu2-1.fna&oh=00_AT-8CiOX_Y97N1YLpiMH6zT8AwgVn5_UywV2VxLnEJ4Xuw&oe=61DD617C)
-![](https://t4.ftcdn.net/jpg/03/67/97/69/240_F_367976903_lCt4GqXV60BH6SFzDx85pIKlClnJMnnx.jpg)
+### ANALYZING PERFORMANCE OF VARIOUS MACHINE LEARNING ALGORITHMS ON RELIANCE STOCK DATA     [![Mail Badge](https://img.shields.io/badge/-View-0e76a8?style=flat&labelColor=0e76a8&logo=click&logoColor=white)](https://drive.google.com/drive/folders/1SGJ4ZMXHYy0Th8s4qufsV7IA8nm5Pvtd?usp=sharing)
+
+descriptionReliance Industries Limited is an Indian multinational conglomerate company and it provide energy, textiles, petrochemicals, natural resources, telecommunications and retail. It one of the largest publicly traded company in India by market capitalization, first exceed $100 billion market capitalization in India.
+
+
+
+
+![](https://t3.ftcdn.net/jpg/02/52/60/22/240_F_252602283_dHNFUj520h1E8CwHyBORuUyu5hcJb2I4.jpg)
