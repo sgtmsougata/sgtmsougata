@@ -1,6 +1,6 @@
 ##          Hi there 👋, I'm Sougata Maity
 ### Statistician | Data Analyst | Data Scientist
-
+<meta name="google-site-verification" content="CPuAva-TzsofUgwK5cVUKyzfgaiYt34XX8bmg9NdWH0" />
 ![](https://t4.ftcdn.net/jpg/03/03/16/85/240_F_303168513_hKdmYEegVUuGU1UwVi8hMNSmqRDNJTBq.jpg?style=centerme)
 
 <!--[](https://marvel-b1-cdn.bc0a.com/f00000000234031/www.pacificu.edu/sites/default/files/styles/page_banner/public/DataScience_Banner.jpg?itok=A3Y_n3bK)-->
